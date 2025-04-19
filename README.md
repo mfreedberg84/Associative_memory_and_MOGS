@@ -1,2 +1,5 @@
-# Episodic_memory_and_MOGS
-Data and code from a study investigating the effect of episodic memory encoding on micro-offline gains.
+# Do “Micro-offline gains” rely on rest or hippocampal-mediated processes?
+
+Nafiz Ahmed, Tharan Suresh, Sara Hussain, Michael Freedberg
+
+---
