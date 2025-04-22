@@ -5,8 +5,6 @@ clear; clc;
 %
 % The paths to these folders must be specified here:
 
-home_dir = ; % root folder
-load_dir = ; % where your data output from a_MOGS_calc.m went
 out_dir =  ; % output data folder
 bp = 11; % Set break point (Bonstrup et al. 2019 used 11).
 
