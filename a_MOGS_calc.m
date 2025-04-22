@@ -5,9 +5,9 @@ clear; clc;
 %
 % The paths to these folders must be specified here:
  
-root_dir = ;% root folder
 scripts_dir =; % folder with your scripts
 out_dir = ; % output data folder
+mkdir(out_dir);
 
 % Notes
 % 1) For each subject it will acces the data in "_raw_data".
