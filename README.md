@@ -24,3 +24,5 @@ In addition, there are several downloadable functions that need to go in the fol
 2) shadedErrorBar: https://www.mathworks.com/matlabcentral/fileexchange/26311-raacampbell-shadederrorbar
 
 The scripts will generate several pop-up figures that are also shown in the paper. The result of statistical tests and descriptive statistics are outputted on the command line.
+
+For the Bayes analyses, results are already stored in the "Group_data_ANOVA.jasp" file, which reads "Group_data_ANOVA.csv." This file contains the results contrasting groups on acquisition asymptote, acquisition magnitude, acquisition rate, retention, and MOGS. 
