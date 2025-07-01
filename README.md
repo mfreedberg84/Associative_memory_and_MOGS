@@ -20,8 +20,9 @@ Instructions: Download all files and set the relevant paths at the top of the **
 4) **c1_acquisition_retention.m**.  To initiailze this script, you need to set the path to where "a_MOGS_calc.m" outputted its files. 
 
 In addition, there are several downloadable functions that need to go in the folder with your scripts:
-    a) Violinplot: https://www.mathworks.com/matlabcentral/fileexchange/170126-violinplot-matlab
-    b) shadedErrorBar: https://www.mathworks.com/matlabcentral/fileexchange/26311-raacampbell-shadederrorbar
+a) Violinplot: https://www.mathworks.com/matlabcentral/fileexchange/170126-violinplot-matlab
+    
+b) shadedErrorBar: https://www.mathworks.com/matlabcentral/fileexchange/26311-raacampbell-shadederrorbar
 
 5) **d_associative_memory_and_acq.m**  To initiailze this script, you need to set the path to where "a_MOGS_calc.m" outputs its files. You also have the option to define the early learning break point at the top of the script.
    
